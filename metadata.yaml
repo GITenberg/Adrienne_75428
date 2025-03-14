@@ -1,0 +1,35 @@
+_repo: Adrienne_75428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    aliases:
+    - Feuvre, Amy Le
+    - Feuvre, Amy le
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: ''
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75428'
+language: en
+pgterms:marc905: 20250106080411lefeuvre
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bWard, Lock & Co., Limited, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Castles -- Fiction'
+- !lcsh 'British -- France -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Adrienne
+url: http://www.gutenberg.org/ebooks/75428
